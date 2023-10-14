@@ -38,7 +38,7 @@ def warp_unlimited(id_code):
         time.sleep(5)
 
         
-banner = Figlet(font="whimsy").renderText("Multi Warp")
+banner = Figlet(font="whimsy").renderText("Warp+")
 
 print (text(banner))
 print (Fore.RED + "[$] Powered by Team HH [Hello Hackers]")
