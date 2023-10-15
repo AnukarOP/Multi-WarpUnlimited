@@ -16,7 +16,7 @@ Multi Unlimited Warp a Best Script That you can get Unlimited Warp+ 1.1.1.1 DNS 
 ```
 apt-get install git python3
 git clone https://github.com/AnukarOP/Multi-WarpUnlimited
-cd Multi-UnlimitedWarp
+cd Multi-WarpUnlimited
 pip3 install -r requirements.txt
 python3 unlimited_warp.py
 ```
